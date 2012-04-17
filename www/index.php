@@ -43,9 +43,15 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
+
+<p><p> The project is to enable and encourage visual depictions of inference at work - the process of learning from observations by their explicit representation as outcomes generated from unknown (in some aspects) probability models. 
+<ul>
+In the Bayesian paradigm, this is very directly seen in the posterior=prior*likelihood in the full dimension of the parameters, with direct averaging to any sub-dimension of the parameter space. 
+<ul>
+In the frequency paradigm this can start with likelihood=posterior/prior in the full dimension (where it is invariant to the prior) but there are perhaps unresolvable challenges in focussing down to any sub-dimension. 
+</ul> 
 
 </body>
 </html>
